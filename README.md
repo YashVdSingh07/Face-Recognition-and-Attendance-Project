@@ -31,7 +31,7 @@ Facial Recognition & Attendance System
    - If a match is found, logs the name & timestamp in `Attendance.csv`
 
 ## 🖼️ Sample Output
-![Face Recognition Example](path_to_sample_image)
+![Face Recognition Example](Project_Screenshot.png)
 
 ## 🛠️ Technologies Used
 - **Python**
