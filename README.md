@@ -1,7 +1,5 @@
 # Face-Recognition-and-Attendance-Project
 
-![Project Banner](path_to_banner_image)
-
 ## 📌 Overview
 This project implements a **Facial Recognition-based Attendance System** using **OpenCV, face_recognition, and Python**. The system detects faces from a live webcam feed, matches them with stored images, and logs attendance in a CSV file.
 
@@ -47,7 +45,6 @@ Facial Recognition & Attendance System
   - Images are **clear & properly aligned**
   - Lighting conditions are **adequate**
   - Image resolution is **not too large**
-- If **IndexError: list index out of range**, refer to [this fix](https://github.com/ageitgey/face_recognition/issues/1195)
 
 ## 📜 License
 This project is licensed under the **MIT License**.
@@ -58,4 +55,5 @@ Pull requests are welcome! Feel free to contribute improvements.
 ## 📞 Contact
 For questions or suggestions, contact:
 📧 Email: [yashvardhan1803@gmail.com](mailto:yashvardhan1803@gmail.com)
+
 GitHub: [YashVdSingh07](https://github.com/YashVdSingh07)
